@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlinpertama</string>
+    <string name="frombudy">FromBudy</string>
+    <string name="happy_birthday">Happy Birthday</string>
+    <string name="todo">TODO</string>
+
+</resources>
