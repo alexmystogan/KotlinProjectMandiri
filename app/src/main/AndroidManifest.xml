@@ -28,6 +28,7 @@
                 android:value="" />
         </activity>
         <activity android:name=".Rolldice" />
+        <activity android:name=".Cardgame" />
     </application>
 
 </manifest>
